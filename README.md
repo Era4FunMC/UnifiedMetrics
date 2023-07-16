@@ -1,4 +1,4 @@
-![UnifiedMetrics](.github/assets/banner.png)
+![UnifiedMetrics](.github/assets/banner.png) 
 
 [![License](https://img.shields.io/github/license/Cubxity/UnifiedMetrics?style=flat-square)](COPYING.LESSER)
 [![Workflow Status](https://img.shields.io/github/workflow/status/Cubxity/UnifiedMetrics/gradle-preview-ci/master?style=flat-square)](https://github.com/Cubxity/UnifiedMetrics/actions)
